@@ -99,8 +99,12 @@ a:hover {
   align-content: center;
 }
 
+.center1{
+  margin: auto;
+  width: 50%;
+}
+
 .btn {
-  align-content: center;
   background-color: DodgerBlue;
   border: none;
   color: white;
