@@ -93,16 +93,22 @@ a:hover {
   }
 }
 
+.center{
+  align-items: center;
+  align-self: center;
+  align-content: center;
+}
+
 .btn {
   align-content: center;
   background-color: DodgerBlue;
   border: none;
-  margin-top: 1cm;
-  margin-left: 3cm;
   color: white;
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;
+  float: none;
+  margin-top: 2cm;
 }
 
 /* Darker background on mouse-over */
