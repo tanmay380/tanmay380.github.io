@@ -1,9 +1,5 @@
 {
-  "homepage": "http://tanmay380.github.io/resume",
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  },
+  
   "dependencies": {
     "i": "^0.3.7"
   },
