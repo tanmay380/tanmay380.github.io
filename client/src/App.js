@@ -3,7 +3,7 @@ import axios from 'axios'
 import './App.css';
 import { useState } from "react";
 import { Component } from 'react'
-import Particles from 'react-particles-js';
+// import Particles from 'react-particles-js';
 import Box from '@material-ui/core/Box';
 import { Container, Grid } from '@material-ui/core';
 import { Paper } from '@material-ui/core';
